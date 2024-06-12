@@ -7,5 +7,4 @@ The simple python script convert the original tabular output to a more usable ts
 
 ## Requirements
 Bio.SearchIO package from [Biopython](https://biopython.org/)<br> 
-[argparse](https://pypi.org/project/argparse/)<br>  
-[python csv](https://pypi.org/project/python-csv/)
+[argparse](https://pypi.org/project/argparse/)<br>[python csv](https://pypi.org/project/python-csv/)
